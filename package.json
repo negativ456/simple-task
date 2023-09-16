@@ -1,7 +1,7 @@
 {
   "name": "simple-task",
   "version": "0.0.0",
-  "homepage": "https://github.com/negativ456/simple-task/",
+  "homepage": "https://negativ456.github.io/simple-task/",
   "private": true,
   "scripts": {
     "dev": "vite",
